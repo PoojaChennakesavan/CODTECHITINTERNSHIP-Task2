@@ -6,6 +6,7 @@ Duration: December,2024 to February,2025
 Mentor:NEELA SANTOSH KUMAR           
 
 **OVERVIEW OF THE PROJECT**
+![image](https://github.com/user-attachments/assets/e02d8bb9-11b8-4cfd-af0b-5604895ef42c)
 
 **PROJECT: A Simple Calculator using Python**
 
